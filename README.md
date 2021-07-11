@@ -1,4 +1,4 @@
-# NC heart
+# NC Heart
 This folder contains the source cord for the NCOMMS-21-25550. 
 Readers could reproduce the same results of each figure with the source code. 
 
